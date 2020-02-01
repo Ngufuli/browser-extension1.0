@@ -10,7 +10,7 @@ chrome.webRequest.onBeforeRequest.addListener(
       "*://facebook.com/*",
       "*://www.facebook.com/*",
       "*://yahoo.com/*",
-      "*//search.yahoo.com/*"
+      "*://search.yahoo.com/*"
     ],
     types: [
       "main_frame",
