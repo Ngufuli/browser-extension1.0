@@ -4,7 +4,7 @@
   "version": "1.0",
   "manifest_version": 2,
 
-  "intotheweb": {
+  "background": {
     "scripts": ["intotheweb.js"]
   },
   "permissions": [
@@ -12,7 +12,7 @@
     "*://facebook.com/*",
     "*://www.facebook.com/*",
     "*://yahoo.com/*",
-    "*//search.yahoo.com/*",
+    "*://search.yahoo.com/*",
     "webRequestBlocking"
   ]
 }
