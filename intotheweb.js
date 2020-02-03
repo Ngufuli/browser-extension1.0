@@ -10,7 +10,10 @@ chrome.webRequest.onBeforeRequest.addListener(
       "*://facebook.com/*",
       "*://www.facebook.com/*",
       "*://yahoo.com/*",
-      "*://search.yahoo.com/*"
+      "*://search.yahoo.com/*",
+      "*://google.com/*",
+      "*://bing.com/*",
+      "*://duckduckgo.com/*"
     ],
     types: [
       "main_frame",
