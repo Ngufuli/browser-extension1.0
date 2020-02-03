@@ -13,7 +13,8 @@ chrome.webRequest.onBeforeRequest.addListener(
       "*://search.yahoo.com/*",
       "*://google.com/*",
       "*://bing.com/*",
-      "*://duckduckgo.com/*"
+      "*://duckduckgo.com/*",
+      "*://youtube.com/*"
     ],
     types: [
       "main_frame",
