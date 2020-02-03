@@ -16,6 +16,7 @@
     "*://google.com/*",
     "*://bing.com/*",
     "*://duckduckgo.com/*",
+    "*://youtube.com/*",
     "webRequestBlocking"
   ]
 }
